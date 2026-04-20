@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="40dp">
+
+    <Button
+        android:id="@+id/btn_add_etudiant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ajouter Etudiant"
+        android:backgroundTint="@color/orange_custom"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btn_list_etudiant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/orange_custom"
+        android:text="Liste Etudiants" />
+
+</LinearLayout>
