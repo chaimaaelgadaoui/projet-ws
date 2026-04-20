@@ -1,4 +1,5 @@
 LAB9 de Gestion des Étudiants (Android & PHP/MySQL)
+
 🚀 Fonctionnalités
 •Affichage en temps réel : Liste des étudiants récupérée depuis une base de données MySQL.
 •Ajout d'étudiants : Formulaire pour saisir le nom, prénom, ville et sexe.
@@ -7,6 +8,7 @@ LAB9 de Gestion des Étudiants (Android & PHP/MySQL)
 •Interface intuitive : Utilisation de ListView avec un Adapter personnalisé et des composants Material Design.
 
 🛠 Technologies utilisées
+
 Mobile (Android)
 •Java : Langage de programmation principal.
 •Volley : Bibliothèque pour effectuer des requêtes HTTP (POST/GET).
